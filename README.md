@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sai Krishna 👋
 
-<!--
-**Sai-Krishna-11/Sai-Krishna-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer | CFD & Design Engineer  
+Project Associate at IISc Bangalore
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- OpenFOAM
+- Computational Fluid Dynamics (CFD)
+- AutoCAD
+- SolidWorks
+- Creo
+- ANSYS
+- ParaView
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Interest
+- Vehicle Aerodynamics
+- Combustion Modeling
+- Turbulence Modeling
+- Mechanical Design
+
+## 📂 Projects
+- OpenFOAM CFD Simulations
+- Combustion Simulations
+- Mechanical Design Projects
+- Structural Analysis using ANSYS
+
+## 🎯 Goal
+To contribute to advanced CFD simulations and futuristic vehicle design.
