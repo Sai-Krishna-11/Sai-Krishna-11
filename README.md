@@ -3,15 +3,16 @@
 Mechanical Engineer | CFD & Design Engineer  
 Project Associate at IISc Bangalore
 
-## 🔧 Skills
-- OpenFOAM
-- Computational Fluid Dynamics (CFD)
-- AutoCAD
-- SolidWorks
-- Creo
-- ANSYS
-- ParaView
-- Linux
+## 🔧 Skills & Tools
+
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-orange)
+![CFD](https://img.shields.io/badge/CFD-Simulation-blue)
+![ANSYS](https://img.shields.io/badge/ANSYS-Analysis-yellow)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-blue)
+![Creo](https://img.shields.io/badge/Creo-CAD-green)
+![ParaView](https://img.shields.io/badge/ParaView-Visualization-purple)
+![Linux](https://img.shields.io/badge/Linux-Environment-black)
 
 ## 🚀 Areas of Interest
 - Vehicle Aerodynamics
