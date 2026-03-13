@@ -29,10 +29,10 @@ Project Associate at IISc Bangalore
 ## 🖼 Design & Simulation Work
 
 ### V6 Engine Design
-![V6 Engine](images/V6_Engine.png)
+![V6 Engine](Images/V6_Engine.png)
 
 ### Air Drone Design
-![Air Drone](images/Air_Drone.png)
+![Air Drone](Images/Air_Drone.png)
 
 ### CFD Simulation
 ![CFD Simulation](images/cfd_simulation.png)
