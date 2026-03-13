@@ -26,5 +26,16 @@ Project Associate at IISc Bangalore
 - Mechanical Design Projects
 - Structural Analysis using ANSYS
 
+## 🖼 Design & Simulation Work
+
+### V6 Engine Design
+![V6 Engine](images/v6_engine.png)
+
+### Air Drone Design
+![Air Drone](images/air_drone.png)
+
+### CFD Simulation
+![CFD Simulation](images/cfd_simulation.png)
+
 ## 🎯 Goal
 To contribute to advanced CFD simulations and futuristic vehicle design.
