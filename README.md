@@ -32,7 +32,7 @@ Project Associate at IISc Bangalore
 ![V6 Engine](assets/images/v6_engine.png)
 
 ### Bicycle Design
-![Bicycle](assets/images/bicycle.png)
+![Bicycle](assets/images/Bicycle.png)
 
 ### Air Drone Design
 ![Air Drone](assets/images/airdrone.png)
